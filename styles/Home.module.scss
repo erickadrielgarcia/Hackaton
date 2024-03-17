@@ -1,0 +1,54 @@
+
+@media (max-width: 768px) {
+  #container {
+      display: none;
+      width: 0;
+  }
+
+  #container_formulario {
+    display: block!important;
+    width: 100%!important;
+  }
+
+}
+
+@media (max-width: 375px) {
+  .button{
+    width: 100%!important;
+  }
+
+}
+
+#container_formulario {
+  display: none;
+  width: 0;
+}
+
+#logo {
+  background-color: #6F42C1;
+  height: 100vh;
+}
+
+#images{
+  display: flex;
+  margin: 0 0 0 5%;
+
+  img {
+    margin: 5%;
+  }
+} 
+
+.button {
+  border-radius: 5px;
+  border: solid 1px;
+  font-weight: bold;
+  color: #FFF;
+  background-color: var(--ciano);
+  border-radius: 15px;
+  width: 40%
+}
+
+
+#roxo {
+  color: var(--roxo);
+}

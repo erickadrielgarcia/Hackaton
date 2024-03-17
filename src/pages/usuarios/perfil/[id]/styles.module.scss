@@ -1,0 +1,51 @@
+// .form{
+//     border: var(--roxo) solid 3px;
+//     padding: 4%;
+//     margin: 0 2%;
+// }
+
+// .labelContainer {
+//     font-weight: bold;
+//     margin-bottom: .5%;
+    
+//     .label {
+//         margin-right: 18.5%;
+//     }
+// }
+
+.labelStatus {
+    // display: flex;
+    // margin-left: ;
+    margin: 0 1%;
+    font-weight: bold;
+}
+
+#card {
+    background-color: var(--roxo);
+    color: #FFF;
+}
+
+#pesquisa {
+    border-radius: 20px;
+    border: solid 1px var(--roxo);
+    width: 100%;
+}
+
+#pesq {
+    border-radius: 20px;
+    border: solid 1px var(--roxo);
+    width: 100%;
+}
+
+#botao {
+    border-radius: 20px;
+    border: solid 1px var(--ciano);
+    color: #FFF;
+    background-color: var(--ciano);
+    width: 100%;
+}
+
+#rolagem {
+    height: 25rem;
+    overflow-y: scroll;
+}

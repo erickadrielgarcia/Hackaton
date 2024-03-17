@@ -1,0 +1,36 @@
+.labelStatus {
+    // display: flex;
+    // margin-left: ;
+    margin: 0 1%;
+    font-weight: bold;
+}
+
+#card {
+    background-color: var(--roxo);
+    color: #FFF;
+}
+
+#pesquisa {
+    border-radius: 20px;
+    border: solid 1px var(--roxo);
+    width: 100%;
+}
+
+#pesq {
+    border-radius: 20px;
+    border: solid 1px var(--roxo);
+    width: 100%;
+}
+
+#botao {
+    border-radius: 20px;
+    border: solid 1px var(--ciano);
+    color: #FFF;
+    background-color: var(--ciano);
+    width: 100%;
+}
+
+#rolagem {
+    overflow-y: scroll;
+    height: 25rem;
+}
